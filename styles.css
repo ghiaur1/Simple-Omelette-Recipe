@@ -1,0 +1,71 @@
+body {
+            background-color: #f2e4d8;
+            font-family: 'Young Serif', serif;
+            margin: 0;
+            padding: 0;
+        }
+        .pagina {
+            width: 60%;
+            max-width: 600px;
+            background-color: white;
+            border-radius: 15px;
+            padding: 20px;
+            margin: 50px auto;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            text-align: center;
+        }
+        .pagina img {
+            width: 100%;
+            border-radius: 15px;
+        }
+
+       .pagina h1
+       {
+       	color: black;
+       	padding-top: 10px;
+       }
+
+        h1, h2 {
+            color: #8b0000;
+        }
+
+
+
+
+        .prept {
+            text-align: left;
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #fef7fd;
+            border-radius: 15px;
+        }
+
+
+
+
+
+        ul, ol {
+            padding-left: 20px;
+        }
+
+    .nutr , .inst , .ingr
+    {
+    	text-align: left;
+
+    }
+
+        .nutr p {
+            display: flex;
+            justify-content: space-between;
+        }
+
+        hr {
+            border: 1px solid gray;
+        }
+
+       .valoare
+        {
+        	color: darkred; 
+    font-weight: bold;
+
+        }
